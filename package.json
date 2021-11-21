@@ -1,0 +1,19 @@
+{
+  "name": "a02-cgongidi",
+  "version": "1.0.0",
+  "description": "NPM init A02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-Cgongidi.git"
+  },
+  "author": "Chetan Gongidi",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-Cgongidi/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-Cgongidi#readme"
+}
